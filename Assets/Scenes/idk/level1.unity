@@ -793,7 +793,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpeed: 13
   jumpForce: 14
-  spriteRenderer: {fileID: 0}
+  spriteRenderer: {fileID: 1954665012}
   animator: {fileID: 1954665013}
 --- !u!212 &1954665012
 SpriteRenderer:
