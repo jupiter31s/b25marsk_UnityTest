@@ -16,7 +16,7 @@ public class MoveToNextLevel : MonoBehaviour
     {
         if (other.tag == "Square") // Object name
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
         }
     }
     // Update is called once per frame
